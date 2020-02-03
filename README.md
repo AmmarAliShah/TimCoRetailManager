@@ -1,2 +1,2 @@
 # TimCoRetailManager
-A retail management system built by Shah Software Solution 
+A retail management system built by ASS (Ammar Shah Software) Solutions
